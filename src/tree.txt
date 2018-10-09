@@ -1,0 +1,134 @@
+卷 办公 的文件夹 PATH 列表
+卷序列号为 0002-16AB
+G:.
+│  App.vue
+│  main.js
+│  tree.txt
+│  
+├─api
+│      config.js
+│      deslist.js
+│      lyric.js
+│      rank.js
+│      rankDetail.js
+│      recommend.js
+│      recommendDetail.js
+│      result.js
+│      search.js
+│      singerdetail.js
+│      singerlist.js
+│      songslist.js
+│      
+├─baseComponents
+│  ├─cannotfind
+│  │      cannotfind.vue
+│  │      
+│  ├─circleProgress
+│  │      circleProgress.vue
+│  │      
+│  ├─input
+│  │      input.vue
+│  │      
+│  ├─loading
+│  │      loading.svg
+│  │      loading.vue
+│  │      
+│  ├─music
+│  │      music.vue
+│  │      
+│  ├─progress
+│  │      progress.vue
+│  │      
+│  ├─scroll
+│  │      scroll.vue
+│  │      
+│  ├─slider
+│  │      slider.vue
+│  │      
+│  └─songRank
+│          songrankcomplex.vue
+│          songranksimple.vue
+│          
+├─common
+│  ├─iconfont
+│  │      demo.css
+│  │      demo_fontclass.html
+│  │      demo_symbol.html
+│  │      demo_unicode.html
+│  │      iconfont.css
+│  │      iconfont.eot
+│  │      iconfont.js
+│  │      iconfont.svg
+│  │      iconfont.ttf
+│  │      iconfont.woff
+│  │      
+│  ├─js
+│  │      config.js
+│  │      dom.js
+│  │      jsonp.js
+│  │      mixins.js
+│  │      prefixStyle.js
+│  │      singer.js
+│  │      song.js
+│  │      utils.js
+│  │      
+│  └─stylus
+│          base.styl
+│          icon.styl
+│          iconfont.styl
+│          index.styl
+│          mixin.styl
+│          myicon.styl
+│          reset.styl
+│          variable.styl
+│          
+├─components
+│  ├─header
+│  │      header.vue
+│  │      logo@2y.png
+│  │      logo@3y.png
+│  │      
+│  ├─player
+│  │      player.vue
+│  │      
+│  ├─rank
+│  │      rank.vue
+│  │      
+│  ├─rankDetail
+│  │      rankDetail.vue
+│  │      
+│  ├─recommend
+│  │      recommend.vue
+│  │      
+│  ├─recommendDetail
+│  │      recommendDetail.vue
+│  │      
+│  ├─result
+│  │      result.vue
+│  │      
+│  ├─search
+│  │      search.vue
+│  │      
+│  ├─singer
+│  │      singer.vue
+│  │      
+│  ├─singerDetail
+│  │      singerDetail.vue
+│  │      
+│  ├─song
+│  │      song.vue
+│  │      
+│  └─tab
+│          tab.vue
+│          
+├─router
+│      index.js
+│      
+└─vuex
+        actions.js
+        getters.js
+        index.js
+        mutations-types.js
+        mutations.js
+        state.js
+        
